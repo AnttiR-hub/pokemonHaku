@@ -1,3 +1,4 @@
+<!-- monikäyttöinen painikekomponentti -->
 <script>
   export let disabled = false;
 </script>
