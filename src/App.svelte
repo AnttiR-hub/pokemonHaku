@@ -33,7 +33,7 @@
 
 <body>
   <header>
-    <h1>Pokémon-haku</h1>
+    <h1>Poookémon-haku</h1>
   </header>
   <p>Hae pokémoni nimeltä:</p>
 
